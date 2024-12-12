@@ -33,7 +33,7 @@
     "require-from-string": "2.0.2",
     "slash": "5.1.0",
     "to-absolute-glob": "https://github.com/psychobolt/to-absolute-glob",
-    "yeoman-generator": "5.10.0"
+    "yeoman-generator": "7.4.0"
   },
   "devDependencies": {
     "@babel/core": "7.24.5",
