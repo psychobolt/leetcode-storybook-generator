@@ -106,7 +106,7 @@
     "webpack": "5.90.2",
     "yeoman-environment": "3.19.3",
     "yeoman-test": "6.3.0",
-    "yo": "4.3.1"
+    "yo": "5.1.0"
   },
   "packageManager": "yarn@3.8.2",
   "peerDependencies": {
